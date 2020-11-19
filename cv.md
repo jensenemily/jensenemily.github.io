@@ -3,6 +3,8 @@ layout: resume
 ---
 ## Currently
 
+![Jetpacktocat](https://octodex.github.com/images/jetpacktocat.png)
+
 Current Position Description
 
 ## Education

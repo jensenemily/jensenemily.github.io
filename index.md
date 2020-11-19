@@ -7,8 +7,8 @@ Emily Jensen received a B.S. Degree in Engineering Mathematics & Statistics from
 the Zonta Amelia Earhart Fellowship (2019). 
 
 
-- [link to Google Scholar] (https://scholar.google.com/citations?user=WzacMi8AAAAJ&hl=en&authuser=1)
-- [link to LinkedIn] (https://www.linkedin.com/in/emilyljensen)
+- [link to Google Scholar](https://scholar.google.com/citations?user=WzacMi8AAAAJ&hl=en&authuser=1)
+- [link to LinkedIn](https://www.linkedin.com/in/emilyljensen)
 
 ## Current Interests and Projects:
 

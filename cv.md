@@ -3,24 +3,27 @@ layout: resume
 ---
 ## Currently
 
-![Jetpacktocat](https://octodex.github.com/images/jetpacktocat.png)
+
 
 Current Position Description
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2015`
+__University of California, Berkeley__
+B.S. in Engineering Mathematics & Statistics
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2020`
+__University of California, Santa Barbara__
+M.S./ Ph.D. in Electrical & Computer Engineering 
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2016`
+UC Regents Graduate Fellowship, University of California
+
+`2019`
+Amelia Earhart Graduate Fellowship, Zonta International
 
 ## Publications
 

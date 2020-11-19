@@ -3,9 +3,7 @@ layout: resume
 ---
 ## Currently
 
-
-
-Current Position Description
+Preparing to begin my postdoctoral work at Northeastern University 
 
 ## Education
 
@@ -16,6 +14,15 @@ B.S. in Engineering Mathematics & Statistics
 `2020`
 __University of California, Santa Barbara__
 M.S./ Ph.D. in Electrical & Computer Engineering 
+Dissertation: Topics in Optimal Distributed Control
+Dissertation Committee: Bassam Bamieh (chair), John C. Doyle, Joao Hespanha, Shivkumar Chandrasekaran
+
+## Research Experience
+
+`2016`
+__California Institute of Technology (Caltech)__
+Research & Instructional Assistant
+Controls & Dynamical Systems
 
 ## Awards
 
@@ -25,9 +32,10 @@ UC Regents Graduate Fellowship, University of California
 `2019`
 Amelia Earhart Graduate Fellowship, Zonta International
 
+
 ## Publications
 
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<!-- A list is also available [online](https://scholar.google.com/citations?user=WzacMi8AAAAJ&hl=en&authuser=1) -->
 
 ### Journals
 
@@ -37,14 +45,6 @@ Article Title, Journal Title
 `1994`
 Article Title, Journal Title
 
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
 
 ## Presentations
 
@@ -52,24 +52,19 @@ Book Title, Journal Title
 Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
 
 
-## Occupation
+## Service & Outreach
 
-`Current`
-__Current Job Title__, Current Employer 
+`2018-Present`
+__Volunteer__, Girls Inc. of Santa Barbara 
 
-- Task
-- Task
+- Homework help volunteer at teen center
 
-`1994-1996`
-__Current Job Title__, Current Employer 
 
-- Task
-- Task
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: November 2020 -->
 
 

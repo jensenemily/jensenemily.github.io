@@ -9,19 +9,25 @@ Preparing to begin my postdoctoral work at Northeastern University
 
 `2015`
 __University of California, Berkeley__
+
 B.S. in Engineering Mathematics & Statistics
 
 `2020`
 __University of California, Santa Barbara__
+
 M.S./ Ph.D. in Electrical & Computer Engineering 
+
 Dissertation: Topics in Optimal Distributed Control
+
 Dissertation Committee: Bassam Bamieh (chair), John C. Doyle, Joao Hespanha, Shivkumar Chandrasekaran
 
 ## Research Experience
 
 `2016`
 __California Institute of Technology (Caltech)__
+
 Research & Instructional Assistant
+
 Controls & Dynamical Systems
 
 ## Awards
@@ -40,11 +46,15 @@ Amelia Earhart Graduate Fellowship, Zonta International
 ### Journals
 
 `2020`
-On Structured-Closed-Loop versus Structured-Controller Design: the Case of Relative Measurement Feedback, Submitted: IEEE Transactions on Automatic Control 
-- Available on ArXiv [here](https://arxiv.org/pdf/2008.11291.pdf)
+[On Structured-Closed-Loop versus Structured-Controller Design: the Case of Relative Measurement Feedback](https://arxiv.org/pdf/2008.11291.pdf)
+
+Submitted: IEEE Transactions on Automatic Control 
+
 
 `2020`
-An Explicit Parametrization of Closed Loops for Spatially Distributed Controllers with Sparsity Constraints, To Appear: IEEE Transactions on Automatic Control
+An Explicit Parametrization of Closed Loops for Spatially Distributed Controllers with Sparsity Constraints,
+
+To Appear: IEEE Transactions on Automatic Control
 
 ### Conferences
 

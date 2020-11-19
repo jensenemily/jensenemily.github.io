@@ -33,23 +33,36 @@ UC Regents Graduate Fellowship, University of California
 Amelia Earhart Graduate Fellowship, Zonta International
 
 
-## Publications
+## Peer Reviewed Publications
 
 <!-- A list is also available [online](https://scholar.google.com/citations?user=WzacMi8AAAAJ&hl=en&authuser=1) -->
 
 ### Journals
 
-`1994`
-Article Title, Journal Title
+`2020`
+On Structured-Closed-Loop versus Structured-Controller Design: the Case of Relative Measurement Feedback, Submitted: IEEE Transactions on Automatic Control 
+- Available on ArXiv [here](https://arxiv.org/pdf/2008.11291.pdf)
 
-`1994`
-Article Title, Journal Title
+`2020`
+An Explicit Parametrization of Closed Loops for Spatially Distributed Controllers with Sparsity Constraints, To Appear: IEEE Transactions on Automatic Control
+
+### Conferences
+
+[On the Gap between System Level Synthesis and Structured Controller Design: the Case of Relative Feedback](https://ieeexplore.ieee.org/abstract/document/9147959)
+
+[A Backstepping Approach to System Level Synthesis for Spatially-Invariant Systems](https://ieeexplore.ieee.org/abstract/document/9147574)
+
+
 
 
 ## Presentations
 
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
+`October 2020`
+Structured Closed-Loop Design vs. Structured Controller Design, Invited Presentation for Lund University Controls Seminar
+
+`January 2020`
+On the Gap between SLS & Structured Controller Design: The Case of Relative Feedback, 2020 SoCal Controls Workshop, UC San Diego
+
 
 
 ## Service & Outreach

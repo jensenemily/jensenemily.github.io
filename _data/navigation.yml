@@ -7,9 +7,15 @@
 
 - title: CV
   url: /cv/
+  
+- title: Blog
+  url: /blog/
 
 - title: Updates
   url: /updates/
+  
+- title: Publications
+  url: /publications/
 
 #- title: Workshops
 #  url: /workshops/

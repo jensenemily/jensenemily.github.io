@@ -57,10 +57,15 @@ An Explicit Parametrization of Closed Loops for Spatially Distributed Controller
 To Appear: IEEE Transactions on Automatic Control
 
 ### Conferences
+Localization of the LQR Feedback Kernel in Spatially-Invariant Problems over Sobolev Spaces
 
 [On the Gap between System Level Synthesis and Structured Controller Design: the Case of Relative Feedback](https://ieeexplore.ieee.org/abstract/document/9147959)
 
 [A Backstepping Approach to System Level Synthesis for Spatially-Invariant Systems](https://ieeexplore.ieee.org/abstract/document/9147574)
+
+[Optimal Spatially-Invariant Controllers with Locality Constraints: A System Level Approach](https://ieeexplore.ieee.org/abstract/document/8430915)
+
+[Optimal Utility Design in Convex Distributed Welfare Games](https://ieeexplore.ieee.org/abstract/document/8431131)
 
 
 

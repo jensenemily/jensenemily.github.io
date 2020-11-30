@@ -1,7 +1,7 @@
 ---
 layout: resume
 ---
-
+## Currently
 
 Preparing to begin my postdoctoral work at Northeastern University 
 
@@ -41,7 +41,7 @@ Amelia Earhart Graduate Fellowship, Zonta International
 
 ## Peer Reviewed Publications
 
-<!-- A complete list is available [here](https://scholar.google.com/citations?user=WzacMi8AAAAJ&hl=en&authuser=1) -->
+A complete list is available [here](https://scholar.google.com/citations?user=WzacMi8AAAAJ&hl=en&authuser=1) 
 
 
 

@@ -1,7 +1,7 @@
 ---
 layout: resume
 ---
-## Currently
+
 
 Preparing to begin my postdoctoral work at Northeastern University 
 
@@ -41,31 +41,7 @@ Amelia Earhart Graduate Fellowship, Zonta International
 
 ## Peer Reviewed Publications
 
-<!-- A list is also available [online](https://scholar.google.com/citations?user=WzacMi8AAAAJ&hl=en&authuser=1) -->
-
-### Journals
-
-`2020`
-[On Structured-Closed-Loop versus Structured-Controller Design: the Case of Relative Measurement Feedback](https://arxiv.org/pdf/2008.11291.pdf)
-
-Submitted: IEEE Transactions on Automatic Control 
-
-
-`2020`
-An Explicit Parametrization of Closed Loops for Spatially Distributed Controllers with Sparsity Constraints,
-
-To Appear: IEEE Transactions on Automatic Control
-
-### Conferences
-Localization of the LQR Feedback Kernel in Spatially-Invariant Problems over Sobolev Spaces
-
-[On the Gap between System Level Synthesis and Structured Controller Design: the Case of Relative Feedback](https://ieeexplore.ieee.org/abstract/document/9147959)
-
-[A Backstepping Approach to System Level Synthesis for Spatially-Invariant Systems](https://ieeexplore.ieee.org/abstract/document/9147574)
-
-[Optimal Spatially-Invariant Controllers with Locality Constraints: A System Level Approach](https://ieeexplore.ieee.org/abstract/document/8430915)
-
-[Optimal Utility Design in Convex Distributed Welfare Games](https://ieeexplore.ieee.org/abstract/document/8431131)
+<!-- A complete list is available [here](https://scholar.google.com/citations?user=WzacMi8AAAAJ&hl=en&authuser=1) -->
 
 
 

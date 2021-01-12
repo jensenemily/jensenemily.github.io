@@ -3,7 +3,7 @@ layout: resume
 ---
 ## Currently
 
-Preparing to begin my postdoctoral work at Northeastern University 
+I am a postdoctoral researcher at Northeastern University College of Engineering
 
 ## Education
 

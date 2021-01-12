@@ -3,7 +3,7 @@ layout: resume
 ---
 ## Currently
 
-I am a postdoctoral researcher at Northeastern University College of Engineering
+I am a postdoctoral researcher at Northeastern University College of Engineering, advised by Professor Laurent Lessard
 
 ## Education
 

@@ -8,9 +8,8 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Emily Jensen
   avatar: bio-photo.jpg
-  bio: "e.jensen@northeastern.edu
-."
-  email:e.jensen@northeastern.edu
+  bio: "e.jensen@northeastern.edu."
+  email: "e.jensen@northeastern.edu"
   # Do not include the @ symbol in your Twitter username
   twitter: #laderast
   linkedin: #username

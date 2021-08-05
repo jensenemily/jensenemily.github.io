@@ -8,7 +8,7 @@ the Zonta Amelia Earhart Fellowship (2019). She is currently a postdoctoral rese
 
 - Distributed and Networked Control
 - Optimal Control
-- Control and Dynamics of Infinite Dimensional Systems
+- Analysis of Infinite Dimensional Systems
 
 
 - [link to Google Scholar](https://scholar.google.com/citations?user=WzacMi8AAAAJ&hl=en&authuser=1)
@@ -17,7 +17,8 @@ the Zonta Amelia Earhart Fellowship (2019). She is currently a postdoctoral rese
 
 ## Current Research Projects:
 
-- Localized Control of PDEs
+- Optimization of treatement protocol for Leukemia patients
+- Bioinspired controller design for crawling locomotion
 - Structured Controller Design in the context of System Level Synthesis
 
 

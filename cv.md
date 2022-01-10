@@ -3,7 +3,7 @@ layout: resume
 ---
 ## Currently
 
-I am a postdoctoral researcher at Northeastern University College of Engineering, advised by Professor Laurent Lessard
+I am a postdoctoral researcher at the University of California, Berkeley, where I am advised by Professor Murat Arcak. 
 
 ## Education
 
@@ -22,6 +22,10 @@ Dissertation: Topics in Optimal Distributed Control
 Dissertation Committee: Bassam Bamieh (chair), John C. Doyle, Joao Hespanha, Shivkumar Chandrasekaran
 
 ## Research Experience
+`2021`
+__Northeastern University, Department of Mechanical and Industrial Engineering__
+
+Postdoctoral researcher
 
 `2016`
 __California Institute of Technology (Caltech)__

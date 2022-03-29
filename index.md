@@ -17,11 +17,11 @@ the Zonta Amelia Earhart Fellowship (2019). In 2021, she was a postdoctoral rese
 
 ## Current Research Projects:
 
-- Optimization of treatement protocol for Leukemia patients
-- Bioinspired controller design for crawling locomotion
+- Robust Control of Power Systems (in collaboration with Siemens)
+- Bioinspired controller design for crawling locomotion (in collaboration with Juncal Arbeleiz at MIT) 
 - Structured Controller Design in the context of System Level Synthesis
 
 
 ## More about me...
 
-In my spare time I volunteer at the teen center of Girls Inc. of Santa Barbara. I also enjoy yoga, painting, crocheting, and hiking with my dog Paisley.
+In my spare time I am currently volunteering in Math classrooms at Berkeley High School and volunteering with the Teen Mentorship program for Girls Inc. 

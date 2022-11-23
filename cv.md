@@ -1,7 +1,6 @@
 ---
 layout: resume
 ---
-## Currently
 
 I am a postdoctoral researcher at the University of California, Berkeley, where I am advised by Professor Murat Arcak. 
 
@@ -45,12 +44,15 @@ Amelia Earhart Graduate Fellowship, Zonta International
 
 ## Peer Reviewed Publications
 
-A complete list is available [here](https://scholar.google.com/citations?user=WzacMi8AAAAJ&hl=en&authuser=1) 
+Click [here](https://scholar.google.com/citations?user=WzacMi8AAAAJ&hl=en&authuser=1) for a complete list
 
 
 
 
-## Presentations
+## Recent Presentations
+
+`July 2022`
+Information Structures of the Kalman Filter for the Elastic Wave Equation, Invited Presentation at the IFAC Necsys Conference in Zurich, Switzerland
 
 `October 2020`
 Structured Closed-Loop Design vs. Structured Controller Design, Invited Presentation for Lund University Controls Seminar
@@ -61,6 +63,8 @@ On the Gap between SLS & Structured Controller Design: The Case of Relative Feed
 
 
 ## Service & Outreach
+`2022`
+__Classroom Volunteer__ at Berkeley High School 
 
 `2018-Present`
 __Volunteer__, Girls Inc. of Santa Barbara 

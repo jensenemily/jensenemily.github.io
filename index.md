@@ -5,23 +5,30 @@ excerpt: "About Me..."
 
 **I am currently a Postdoctoral Researcher in the EECS department at UC Berkeley**
 
-Emily Jensen received a B.S. Degree in Engineering Mathematics & Statistics from the University of California, Berkeley in 2015, after which she worked as a research assistant in the Department of Computing & Mathematical Sciences at Caltech. She received a Ph.D. degree in the Electrical & Computer Engineering department at the University of California, Santa Barbara (UCSB) in 2020, where she was advised by Professor Bassam Bamieh and her research focus was in the areas of optimal and distributed control. She is the recipient of the UC Regents’ Graduate Fellowship (2016), and of
-the Zonta Amelia Earhart Fellowship (2019). In 2021, she was a postdoctoral researcher at Northeastern University, advised by Professor Laurent Lessard. She is currently a postdoctoral researcher in the department of Electrical Engineering and Computer Science at the University of California, Berkeley, where she is advised by Murat Arcak. Her research interests include 
+**About me:** I received a B.S. Degree in Engineering Mathematics & Statistics from the University of California, Berkeley in 2015, after which I was a research assistant in the Department of Computing & Mathematical Sciences at Caltech. I received a Ph.D. degree in the Electrical & Computer Engineering department at the University of California, Santa Barbara (UCSB) in 2020, where I was advised by Professor Bassam Bamieh and I research focus was in the areas of optimal and distributed control. I am the recipient of the UC Regents’ Graduate Fellowship (2016), and of
+the Zonta Amelia Earhart Fellowship (2019). In 2021, I was a postdoctoral researcher in the Mechanical and Industrial Engineering Department at Northeastern University. I am currently a postdoctoral researcher in the department of Electrical Engineering and Computer Science at the University of California, Berkeley, where I am advised by Murat Arcak. My research interests include: 
 
-- Distributed and Networked Control
+- Distributed Control
 - Optimal Control
-- Analysis of Infinite Dimensional Systems
+- Distributed Parameter Systems
+
+I am interested in applying my work to areas such as:
+
+- Power Systems
+- Satellite Constellations
+- Soft Robotics
+
 
 
 - [link to Google Scholar](https://scholar.google.com/citations?user=WzacMi8AAAAJ&hl=en&authuser=1)
-- [link to LinkedIn](https://www.linkedin.com/in/emilyljensen)
+
 
 
 ## Current Research Projects:
 
-- Robust Control of Power Systems (in collaboration with Siemens)
-- Bioinspired controller design for crawling locomotion (in collaboration with Juncal Arbeleiz at MIT) 
-- Structured Controller Design in the context of System Level Synthesis
+- Failure-aware control design with application to Power Systems (in collaboration with Siemens)
+- Bio-inspired controller design for crawling locomotion (in collaboration with Juncal Arbeleiz) 
+- System Level Synthesis for Distributed Parameter Systems
 
 
 ## More about me...

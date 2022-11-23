@@ -20,7 +20,7 @@ I am interested in applying my work to areas such as:
 - Satellite Constellations
 - Soft Robotics
 
-
+You can view a list of all my publications on Google Scholar to learn more about my research:
 
 - [link to Google Scholar](https://scholar.google.com/citations?user=WzacMi8AAAAJ&hl=en&authuser=1)
 

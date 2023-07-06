@@ -56,7 +56,7 @@ Click [here](https://scholar.google.com/citations?user=WzacMi8AAAAJ&hl=en&authus
 
 ## Recent Presentations
 `December 2022`
-
+System Level Synthesis for Spatially Distributed Systems, Invited Presentation at the System Level Synthesis Workshop at the Conference on Decision and Control (CDC) in Cancun, Mexico.
 
 `July 2022`
 Information Structures of the Kalman Filter for the Elastic Wave Equation, Invited Presentation at the IFAC Necsys Conference in Zurich, Switzerland

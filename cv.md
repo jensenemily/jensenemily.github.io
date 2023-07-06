@@ -2,7 +2,7 @@
 layout: resume
 ---
 
-I am a postdoctoral researcher at the University of California, Berkeley, where I am advised by Professor Murat Arcak. 
+I am a postdoctoral researcher at the University of California, Berkeley in Professor Murat Arcak's research group. 
 
 ## Education
 
@@ -18,9 +18,14 @@ M.S./ Ph.D. in Electrical & Computer Engineering
 
 Dissertation: Topics in Optimal Distributed Control
 
-Dissertation Committee: Bassam Bamieh (chair), John C. Doyle, Joao Hespanha, Shivkumar Chandrasekaran
+Dissertation Committee: Bassam Bamieh (UCSB), John C. Doyle (Caltech), Joao Hespanha (UCSB), Shivkumar Chandrasekaran (UCSB)
 
 ## Research Experience
+`2022-2023`
+__UC Berkeley, Department of Electrical Engineering and Computer Science__
+
+Postdoctoral researcher
+
 `2021`
 __Northeastern University, Department of Mechanical and Industrial Engineering__
 
@@ -31,15 +36,15 @@ __California Institute of Technology (Caltech)__
 
 Research & Instructional Assistant
 
-Controls & Dynamical Systems
-
 ## Awards
-
-`2016`
-UC Regents Graduate Fellowship, University of California
+`2022`
+Honorable Mention, Young Author Award, IFAC Conference on Networked Systems (for joint work with Dr. Juncal Arbeliez)
 
 `2019`
 Amelia Earhart Graduate Fellowship, Zonta International
+
+`2016`
+UC Regents Graduate Fellowship, University of California
 
 
 ## Peer Reviewed Publications
@@ -50,6 +55,8 @@ Click [here](https://scholar.google.com/citations?user=WzacMi8AAAAJ&hl=en&authus
 
 
 ## Recent Presentations
+`December 2022`
+
 
 `July 2022`
 Information Structures of the Kalman Filter for the Elastic Wave Equation, Invited Presentation at the IFAC Necsys Conference in Zurich, Switzerland

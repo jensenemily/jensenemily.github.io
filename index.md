@@ -3,7 +3,9 @@ layout: page
 excerpt: "About Me..."
 ---
 
-**I am currently a Postdoctoral Researcher in the EECS department at UC Berkeley**
+**I will be joining the faculty in the Electrical, Computer and Energy Engineering Department at the University of Colorado, Boulder**
+
+**I am currently a postdoctoral researcher at UC Berkeley**
 
 **About me:** I received a B.S. Degree in Engineering Mathematics & Statistics from the University of California, Berkeley in 2015, after which I was a research assistant in the Department of Computing & Mathematical Sciences at Caltech. I received a Ph.D. degree in the Electrical & Computer Engineering department at the University of California, Santa Barbara (UCSB) in 2020, where I was advised by Professor Bassam Bamieh and I research focus was in the areas of optimal and distributed control. I am the recipient of the UC Regents’ Graduate Fellowship (2016), and of
 the Zonta Amelia Earhart Fellowship (2019). In 2021, I was a postdoctoral researcher in the Mechanical and Industrial Engineering Department at Northeastern University. I am currently a postdoctoral researcher in the department of Electrical Engineering and Computer Science at the University of California, Berkeley, where I am advised by Murat Arcak. 

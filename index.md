@@ -6,7 +6,7 @@ excerpt: "About Me..."
 I will be joining the faculty in the Electrical, Computer and Energy Engineering Department at the **University of Colorado, Boulder**
 
 
-**About me:** I received a B.S. Degree in Engineering Mathematics & Statistics from UC Berkeley, after which I was a research assistant at Caltech. After receiving my Ph.D. degree in the Electrical & Computer Engineering department at UC Santa Barbara in 2020, I have held postdoctoral appointments at Northeastern University and UC Berkeley. I have received the UC Regents’ Graduate Fellowship (2016),
+**About me:** I received a B.S. Degree in Engineering Mathematics & Statistics from UC Berkeley, after which I was a research assistant at Caltech. I recieved my Ph.D. degree in Electrical & Computer Engineering from UC Santa Barbara in 2020 and have held postdoctoral appointments at Northeastern University and UC Berkeley. I have received the UC Regents’ Graduate Fellowship (2016),
 the Zonta Amelia Earhart Fellowship (2019), and an honorable mention for the Young Author award at the IFAC Conference on Networked Systems (2022).
 
 My broad research interests include: 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Research
 ---
 
 A list of all my publications is available on my Google Scholar page:

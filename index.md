@@ -20,7 +20,7 @@ You can view a list of all my publications on Google Scholar to learn more about
 
 
 
-## Current Research Projects:
+**Current Research Projects** include...
 
 - Failure-aware control design with application to Power Systems (in collaboration with Siemens)
 - Bio-inspired controller design for crawling locomotion (in collaboration with Juncal Arbeleiz) 

@@ -76,7 +76,7 @@ __Classroom Volunteer__ at Berkeley High School
 `2018-Present`
 __Volunteer__, Girls Inc. of Santa Barbara 
 
-- Homework help volunteer at teen center
+
 
 
 

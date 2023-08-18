@@ -19,7 +19,7 @@ You can view a list of all my publications on Google Scholar to learn more about
 
 
 **Current Research Projects** include...
-- Failure-aware control design with application to Power Systems (in collaboration with Siemens)
+- Failure-aware control design with application to Power Systems (in collaboration with Siemens). See our recent work [here](https://arxiv.org/pdf/2308.08471.pdf). 
 - Bio-inspired controller design for crawling locomotion (in collaboration with Dr. Juncal Arbeleiz) 
 - Networked controller design with limited communication and sensing (with my student Walden Marshall)
 

@@ -3,13 +3,13 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I will be joining the faculty in the Electrical, Computer and Energy Engineering Department at the **University of Colorado, Boulder**
+I am an assistant professor in the Electrical, Computer and Energy Engineering Department at the **University of Colorado, Boulder**
 
 
 **About me:** I received a B.S. Degree in Engineering Mathematics & Statistics from UC Berkeley, after which I was a research assistant at Caltech. I recieved my Ph.D. degree in Electrical & Computer Engineering from UC Santa Barbara in 2020 and have held postdoctoral appointments at Northeastern University and UC Berkeley. I have received the UC Regents’ Graduate Fellowship (2016),
 the Zonta Amelia Earhart Fellowship (2019), and an honorable mention for the Young Author award at the IFAC Conference on Networked Systems (2022).
 
-**Potential Students & Postdocs (Please Read!!)** I am hiring students and postdoctoral researchers for the next academic year. **Potential students:** To keep the application process fair to all, I will review only application materials that have been formally submitted to the ECEE department [here](https://www.colorado.edu/ecee/admissions/graduate-admissions), and will not consider additional info from direct emails. **Prospective postdocs** should reach out through an email that includes a brief description of their interest and ability to work on problems related to optimal/distribted control and/or analysis of distributed parameter systems. 
+**Potential Students & Postdocs (Please Read!!)** Yes, I am hiring students and postdoctoral researchers for the next academic year! (Please don't email me to ask...) **Potential students:** To keep the application process fair to all, I will review only application materials that have been formally submitted to the ECEE department [here](https://www.colorado.edu/ecee/admissions/graduate-admissions); I will not consider additional info from direct emails and may not respond to your email prior to the application deadline. Answers to many of your questions can be found on this [FAQ page](https://www.colorado.edu/ecee/admissions/graduate-admissions/graduate-admissions-faqs). **Prospective postdocs** should reach out through an email that includes a brief description of their interest and ability to work on problems specifically related to optimal/distribted control and/or analysis of distributed parameter systems. 
 
 
 **My research** is centered around the analysis and control of spatially-distributed systems. Applications of these systems span the areas from power systems to satellite constellations to bio-inspired soft-robotics. I develop theory to characterize performance bounds, structural properties, and inherent tradeoffs in these systems to guide controller design and system co-design.
@@ -21,7 +21,7 @@ You can view a list of all my publications on Google Scholar to learn more about
 **Current Research Projects** include...
 - Failure-aware control design with application to Power Systems (in collaboration with Siemens). See our recent work [here](https://arxiv.org/pdf/2308.08471.pdf). 
 - Bio-inspired controller design for crawling locomotion (in collaboration with Dr. Juncal Arbeleiz) 
-- Networked controller design with limited communication and sensing (with PhD student Walden Marshall)
+- Networked controller design with limited communication and sensing (with PhD student Walden Marshall). See our recent work [here](https://arxiv.org/pdf/2310.16201.pdf)
 
 **Contact Info:** emilyjensen at berkeley dot edu , ejensen at colorado dot edu
 

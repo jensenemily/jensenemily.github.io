@@ -9,13 +9,12 @@ I am an assistant professor in the Electrical, Computer and Energy Engineering D
 **About me:** I received a B.S. Degree in Engineering Mathematics & Statistics from UC Berkeley, after which I was a research assistant at Caltech. I recieved my Ph.D. degree in Electrical & Computer Engineering from UC Santa Barbara in 2020 and have held postdoctoral appointments at Northeastern University and UC Berkeley. I have received the UC Regents’ Graduate Fellowship (2016),
 the Zonta Amelia Earhart Fellowship (2019), and an honorable mention for the Young Author award at the IFAC Conference on Networked Systems (2022).
 
-**Potential Students & Postdocs (Please Read!!)** Yes, I am hiring students and postdoctoral researchers for the next academic year! (Please don't email me to ask...) **Potential students:** To keep the application process fair to all, I will review only application materials that have been formally submitted to the ECEE department [here](https://www.colorado.edu/ecee/admissions/graduate-admissions); I will not consider additional info from direct emails and may not respond to your email prior to the application deadline. Answers to many of your questions can be found on this [FAQ page](https://www.colorado.edu/ecee/admissions/graduate-admissions/graduate-admissions-faqs). **Prospective postdocs** should reach out through an email that includes a brief description of their interest and ability to work on problems specifically related to optimal/distribted control and/or analysis of distributed parameter systems. 
+**Potential Students & Postdocs:** Yes, I am hiring students and postdoctoral researchers for the next academic year! Prospective postdocs should reach out through an email that includes a brief description of their interest and ability to work on problems specifically related to optimal/distribted control and/or analysis of distributed parameter systems. 
 
 
 **My research** is centered around the analysis and control of spatially-distributed systems. Applications of these systems span the areas from power systems to satellite constellations to bio-inspired soft-robotics. I develop theory to characterize performance bounds, structural properties, and inherent tradeoffs in these systems to guide controller design and system co-design.
 
 You can view a list of all my publications on Google Scholar to learn more about my research [link to Google Scholar](https://scholar.google.com/citations?user=WzacMi8AAAAJ&hl=en&authuser=1).
-
 
 
 **Current Research Projects** include...

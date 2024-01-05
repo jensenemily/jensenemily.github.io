@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Workshops
-excerpt: "Recent Workshops"
+title: Teaching
+excerpt: ""
 ---
 
-# Workshops I've Put Together
+# Current Courses
 
-- [GitHub Pages Workshop](https://github.com/BioData-Club/githubPagesTutorial)
+- ECEN 5738: Theory of Nonlinear Systems

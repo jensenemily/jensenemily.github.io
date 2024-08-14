@@ -2,6 +2,11 @@
 layout: page
 title: Updates
 ---
++ Aug. 2024 - I will be presenting my work on control of spatially-distributed systems at the 26th International Symposium on
+Mathematical Theory of Networks and Systems in Cambridge, UK.
++ Aug. 2024 - Thanks to Girls Inc. for welcoming me and Dr. Charlott Vallon as we hosted a [Girls in Control workshop](https://www.ifac-control.org/areas/girls-in-control-gic-workshop-and-material)
++ Jul. 2024 - I will be presenting my research group's [recent work](https://arxiv.org/pdf/2310.16201) at the American Controls Conference in Toronto.
++ Jan. 2024 - Excited to officially start my role as an Assistant Professor at the University of Colorado, Boulder!
 + Dec. 2022 - I will be presenting my work on **System Level Synthesis for Spatially-Distributed Systems** as part of the System Level Synthesis Workshop at the Conference on Decision and Control (CDC) in Cancun, Mexico (Click [here](https://sites.google.com/view/cdc-2022-sls-workshop/) for more info)
 + Jul. 2022 - Received honorable mention for the Young Author Award at IFAC NecSys 2022 along with Juncal Arbelaiz for our joint work on **Information Structures of the Kalman Filter for the Elastic Wave Equation**
 + Jan. 2022 - Began my role as a postdoc at UC Berkeley

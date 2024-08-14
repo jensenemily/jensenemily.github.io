@@ -22,5 +22,5 @@ You can view a list of all my publications on Google Scholar to learn more about
 - Bio-inspired controller design for crawling locomotion (in collaboration with Dr. Juncal Arbeleiz) 
 - Networked controller design with limited communication and sensing (with PhD student Walden Marshall). See our recent work [here](https://arxiv.org/pdf/2310.16201.pdf)
 
-**Contact Info:** emilyjensen at berkeley dot edu , ejensen at colorado dot edu
+**Contact Info:** ejensen at colorado dot edu
 

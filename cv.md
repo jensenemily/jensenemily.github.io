@@ -2,7 +2,7 @@
 layout: resume
 ---
 
-I am a postdoctoral researcher at the University of California, Berkeley in Professor Murat Arcak's research group. 
+I am an Assistant Professor at the University of Colorado, Boulder in the Department of Electrical, Computer \& Energy Engineering.
 
 ## Education
 

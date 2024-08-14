@@ -3,13 +3,13 @@ layout: page
 title: Research Group
 ---
 
-**Current Students** 
+__Current Students__
 
-Walden Marshall, PhD Student, Electrical Engineering
+**Walden Marshall**, PhD Student, Electrical Engineering
 
-Addie McCurdy, PhD Student, Applied Mathematics 
+**Addie McCurdy**, PhD Student, Applied Mathematics 
 
-Matt Baughman, PhD Student, Electrical Engineering
+**Matt Baughman**, PhD Student, Electrical Engineering
 
-Andy Gusty, Undergraduate Researcher, Applied Mathematics
+**Andy Gusty**, Undergraduate Researcher, Applied Mathematics
 

@@ -26,6 +26,8 @@ A list of all my publications is available on my Google Scholar page:
 
 Here are links to some recent publications my work has contributed to: 
 
+[Grouping of N−1 Contingencies for Controller Synthesis: A Study for Power Line Failures](https://ieeexplore.ieee.org/document/10509009)
+
 [Certifying Stability and Performance of Uncertain Differential-Algebraic Systems: A Dissipativity Framework](https://arxiv.org/pdf/2308.08471.pdf)
 
 [Information Structures of the Kalman Filter for the Elastic Wave Equation](https://laurentlessard.com/public/necsys22_pdekf.pdf)

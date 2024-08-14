@@ -22,7 +22,7 @@ Dissertation Committee: Bassam Bamieh (UCSB), John C. Doyle (Caltech), Joao Hesp
 
 ## Professional Appointments
 `2024-present`
-__University of Colorado, Boulder, Department of Electrical, Computer \& Energy Engineering
+__University of Colorado, Boulder, Department of Electrical, Computer & Energy Engineering__
 
 Assistant Professor
 
@@ -59,7 +59,7 @@ Click [here](https://scholar.google.com/citations?user=WzacMi8AAAAJ&hl=en&authus
 
 
 
-## Recent Presentations
+## Recent Invited Talks
 `December 2022`
 System Level Synthesis for Spatially Distributed Systems, Invited Presentation at the System Level Synthesis Workshop at the Conference on Decision and Control (CDC) in Cancun, Mexico.
 

@@ -20,7 +20,12 @@ Dissertation: Topics in Optimal Distributed Control
 
 Dissertation Committee: Bassam Bamieh (UCSB), John C. Doyle (Caltech), Joao Hespanha (UCSB), Shivkumar Chandrasekaran (UCSB)
 
-## Research Experience
+## Professional Appointments
+`2024-present`
+__University of Colorado, Boulder, Department of Electrical, Computer \& Energy Engineering
+
+Assistant Professor
+
 `2022-2023`
 __UC Berkeley, Department of Electrical Engineering and Computer Science__
 
@@ -64,17 +69,10 @@ Information Structures of the Kalman Filter for the Elastic Wave Equation, Invit
 `October 2020`
 Structured Closed-Loop Design vs. Structured Controller Design, Invited Presentation for Lund University Controls Seminar
 
-`January 2020`
-On the Gap between SLS & Structured Controller Design: The Case of Relative Feedback, 2020 SoCal Controls Workshop, UC San Diego
 
 
 
-## Service & Outreach
-`2022`
-__Classroom Volunteer__ at Berkeley High School 
 
-`2018-Present`
-__Volunteer__, Girls Inc. of Santa Barbara 
 
 
 

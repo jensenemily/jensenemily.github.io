@@ -1,5 +1,6 @@
 ---
 layout: resume
+show_image: true
 ---
 
 I am an Assistant Professor at the University of Colorado, Boulder in the Department of Electrical, Computer \& Energy Engineering.

@@ -4,10 +4,17 @@
 
 <div itemscope itemtype="https://schema.org/Person">
 
-{% if author.avatar contains 'http' %}
-	<img src="{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo">
-{% else %}
-	<img src="{{ site.github.url }}/images/{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo">
+{% assign show_image = page.show_image %}
+{% if show_image == nil %}
+  {% assign show_image = site.owner.show_image %}
+{% endif %}
+  
+{% if show_image != false %}
+  {% if author.avatar contains 'http' %}
+    <img src="{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo">
+  {% else %}
+    <img src="{{ site.github.url }}/images/{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo">
+  {% endif %}
 {% endif %}
 
   <h3 itemprop="name">{{ author.name }}</h3>

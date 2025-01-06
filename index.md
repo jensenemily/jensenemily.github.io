@@ -17,8 +17,10 @@ You can view a list of all my publications on Google Scholar to learn more about
 
 
 **Current Research Projects** include...
-- Failure-aware control design with application to Power Systems (in collaboration with Siemens). See our recent work [here](https://arxiv.org/pdf/2308.08471.pdf). 
-- Bio-inspired controller design for crawling locomotion (in collaboration with Dr. Juncal Arbeleiz) 
+- Wide-area control of power networks with high shares of IBRs (with Prof. Bri-Mathius Hodge and PhD student Matt Baughman).
+- Control of nonlinear wave-like dynamics (with Prof. Cody Scarborough and undergraduate Andy Gusty).
+- Control and estimation of linear distributed parameter systems (PDEs) with limited communication (with PhD student Addie McCurdy)
+- Optimal control of spatially-distributed networks (with undergraduate Bella Wolf)
 - Networked controller design with limited communication and sensing (with PhD student Walden Marshall). See our recent work [here](https://arxiv.org/pdf/2310.16201.pdf)
 
 **Contact Info:** ejensen at colorado dot edu

@@ -61,6 +61,9 @@ Click [here](https://scholar.google.com/citations?user=WzacMi8AAAAJ&hl=en&authus
 
 
 ## Recent Invited Talks
+`August 2024`
+Mini-course: Dynamics and Control in Spatiotemoporal Systems, Invited Presentation at the 26th International Symposium on Mathematical Theory of Networks & Systems, Cambridge, UK.
+
 `December 2022`
 System Level Synthesis for Spatially Distributed Systems, Invited Presentation at the System Level Synthesis Workshop at the Conference on Decision and Control (CDC) in Cancun, Mexico.
 

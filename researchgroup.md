@@ -20,6 +20,8 @@ __Current Students__
 __Past Group Members__
 
 **Bella Wolf**, Undergraduate Researcher, Mechanical & Electrical Engineering
+
 **Graham Dobbie**, Undergraduate Researcher, Aerospace Engineering
+
 **Hyma Jujjuru**, Undergraduate Researcher, Computer Science
 

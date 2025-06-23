@@ -25,6 +25,7 @@ A list of all my publications is available on my Google Scholar page:
 
 
 Here are links to some recent publications my work has contributed to: 
+
 [Optimal Control of Soft-Robotic Crawlers Subject to Nonlinear Friction: A Perturbation Analysis Approach](https://ieeexplore.ieee.org/document/11045777)
 
 [Grouping of N−1 Contingencies for Controller Synthesis: A Study for Power Line Failures](https://ieeexplore.ieee.org/document/10509009)

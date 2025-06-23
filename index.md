@@ -5,7 +5,7 @@ excerpt: "About Me..."
 
 I am an assistant professor in the Electrical, Computer and Energy Engineering Department at the **University of Colorado, Boulder**
 
-** I am co-organizing the Rocky Mountain Workshop on Control \& Autonomy ** taking place at CU Boulder on July 11, 2025. Find more info and register [here](https://www.colorado.edu/ecee/rocky-mountain-control-and-autonomy-workshop-2025)! 
+**I am co-organizing the Rocky Mountain Workshop on Control & Autonomy** taking place at CU Boulder on July 11, 2025. Find more info and register [here](https://www.colorado.edu/ecee/rocky-mountain-control-and-autonomy-workshop-2025)! 
 
 
 **About me:** I received a B.S. Degree in Engineering Mathematics & Statistics from UC Berkeley, after which I was a research assistant at Caltech. I recieved my Ph.D. degree in Electrical & Computer Engineering from UC Santa Barbara in 2020 and have held postdoctoral appointments at Northeastern University and UC Berkeley. I have received the UC Regents’ Graduate Fellowship (2016),

@@ -4,6 +4,7 @@ title: Teaching
 excerpt: ""
 ---
 
-# Current Courses
+# Teaching
 
-- ECEN 5738: Theory of Nonlinear Systems
+- ECEN 3300: Linear Systems (Fall 2025, Fall 2024)
+- ECEN 5738: Theory of Nonlinear Systems (Spring 2025, Spring 2024)

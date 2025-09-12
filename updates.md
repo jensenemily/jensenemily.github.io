@@ -2,6 +2,11 @@
 layout: page
 title: Updates
 ---
++ August 2025 - I was awarded an NSF grant for my proposed work on 
+Scalable Wide-Area Control for Frequency & Voltage Stability in Inverter-Dominant Power Systems. (PI: Emily Jensen, Co-I: Bri-Mathias Hodge)
++ Summer 2025 - My student Addie McCurdy's paper "Complete Decentralization of Linear Quadratic Gaussian Control for the Discrete Wave Equation" was accepted to the CDC.
++ Summer 2025 - My student Andy Gusty's paper "Optimal Control of Soft-Robotic Crawlers Subject to Nonlinear Friction: A Perturbation Analysis Approach" was accepted to L-CSS and to the CDC. 
++ Summer 2025 - Together with Prof. Philip Brown of UCCS, I organized the Rocky Mountain Workshop on Control & Autonomy at CU Boulder. See details [here](https://www.colorado.edu/ecee/rocky-mountain-control-and-autonomy-workshop-2025)
 + Aug. 2024 - I will be presenting my work on control of spatially-distributed systems at the 26th International Symposium on
 Mathematical Theory of Networks and Systems in Cambridge, UK.
 + Aug. 2024 - Thanks to Girls Inc. for welcoming me and Dr. Charlott Vallon as we hosted a [Girls in Control workshop](https://www.ifac-control.org/areas/girls-in-control-gic-workshop-and-material)

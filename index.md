@@ -18,8 +18,8 @@ You can view a list of all my publications on Google Scholar to learn more about
 
 **Current Research Projects** include...
 - Multi-timescale wide-area control of power networks with high shares of IBRs (with Prof. Bri-Mathius Hodge and PhD student Matt Baughman).
-- Control of nonlinear wave-like dynamics (with Prof. Cody Scarborough and undergraduate Andy Gusty). See our recent publication accepted to IEEE L-CSS [here](https://ieeexplore.ieee.org/document/11045777)! 
-- Control and estimation of linear distributed parameter systems (PDEs) with limited communication (with PhD student Addie McCurdy)
+- Control of nonlinear wave-like dynamics (with Prof. Cody Scarborough and undergraduate Andy Gusty). See our recent publication accepted to IEEE L-CSS [here](https://ieeexplore.ieee.org/document/11045777).
+- Control and estimation of linear distributed parameter systems (PDEs) with limited communication (with PhD student Addie McCurdy). See our recent article accepted to the 2025 CDC [here](https://arxiv.org/abs/2509.13446).
 - PDE modeling of power network dynamics (with PhD student Izzy Collins)
 
 **Contact Info:** ejensen at colorado dot edu

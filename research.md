@@ -26,9 +26,11 @@ A list of all my publications is available on my Google Scholar page:
 
 Here are links to some recent publications my work has contributed to: 
 
+[Complete Decentralization of Linear Quadratic Gaussian Control for the Discrete Wave Equation](https://arxiv.org/pdf/2509.13446)
+
 [Optimal Control of Soft-Robotic Crawlers Subject to Nonlinear Friction: A Perturbation Analysis Approach](https://ieeexplore.ieee.org/document/11045777)
 
-[Matching Sensing to Actuation and Dynamics in Distributed Sensorimotor Architectures] (https://ieeexplore.ieee.org/abstract/document/10836695)
+[Matching Sensing to Actuation and Dynamics in Distributed Sensorimotor Architectures](https://ieeexplore.ieee.org/abstract/document/10836695)
 
 [Grouping of N−1 Contingencies for Controller Synthesis: A Study for Power Line Failures](https://ieeexplore.ieee.org/document/10509009)
 

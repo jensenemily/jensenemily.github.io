@@ -5,7 +5,6 @@ excerpt: "About Me..."
 
 <section class="hero">
   <img src="/assets/image/headshot.jpg" alt="Emily Jensen" class="hero-img">
-  <h1>Emily Jensen</h1>
   <p class="hero-subtitle">
     Assistant Professor • Control Theory & Distributed Systems
   </p>

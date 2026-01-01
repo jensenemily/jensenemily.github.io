@@ -37,11 +37,11 @@ $lowlightcolor: {{ site.lowlight-color }};
 }
 
 .hero-img {
-  width: 180px;
-  height: 180px;
+  width: 120px;
+  height: 120px;
   border-radius: 50%;
   object-fit: cover;
-  margin-bottom: 1rem;
+  margin-bottom: 0.75rem;
 }
 
 .hero h1 {
@@ -50,6 +50,6 @@ $lowlightcolor: {{ site.lowlight-color }};
 }
 
 .hero-subtitle {
-  font-size: 1.1rem;
-  color: #555;
+  font-size: 1.35rem;
+  color: #444;
 }

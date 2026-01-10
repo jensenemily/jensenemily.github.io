@@ -21,14 +21,14 @@ excerpt: "About Me..."
 
     <a href="/research/" class="tile">
       <img src="/assets/images/placeholder.png" alt="Robotics">
-      <h3>Robotics & Embodied Intelligence</h3>
-      <p>Learning and control for physical and bio-inspired robots.</p>
+      <h3>Distributed Parameter Systems (PDEs)</h3>
+      <p>Control of PDEs with application to soft-robotics.</p>
     </a>
 
     <a href="/research/" class="tile">
       <img src="/assets/images/placeholder.png" alt="Learning">
-      <h3>Learning for Control</h3>
-      <p>Data-driven methods with stability and performance guarantees.</p>
+      <h3>Wide Area Control of Power Networks</h3>
+      <p>Optimal control of multi-time-scale systems.</p>
     </a>
   </div>
 </section>

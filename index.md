@@ -11,7 +11,7 @@ excerpt: "About Me..."
 
 
 
-I am an Assistant Professor in the Electrical, Computer and Energy Engineering (ECEE) Department at the **University of Colorado, Boulder**, where I am also an affiliate member of the Robotics program. test
+I am an Assistant Professor in the Electrical, Computer and Energy Engineering (ECEE) Department at the **University of Colorado, Boulder**, where I am also an affiliate member of the Robotics program. 
 
 
 **About me:** I received a B.S. Degree in Engineering Mathematics & Statistics from UC Berkeley, after which I was a research assistant in the Computing & Mathematical Sciences Department at Caltech. I recieved my Ph.D. degree in Electrical & Computer Engineering from UC Santa Barbara in 2020 and have held postdoctoral appointments at Northeastern University and UC Berkeley. I have received the UC Regents’ Graduate Fellowship (2016),

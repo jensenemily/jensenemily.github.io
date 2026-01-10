@@ -107,7 +107,7 @@ $lowlightcolor: {{ site.lowlight-color }};
   color: #555;
 }
 
-.article-wrap {
+article.page .article-wrap {
   max-width: 1000px !important;
   margin-left: auto;
   margin-right: auto;

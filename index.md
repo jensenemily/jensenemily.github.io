@@ -14,19 +14,19 @@ excerpt: "About Me..."
 
   <div class="tiles-grid">
     <a href="/research/" class="tile">
-      <img src="/assets/images/power-systems.png" alt="Power systems">
+      <img src="/assets/images/placeholder.png" alt="Power systems">
       <h3>Networked Control Systems</h3>
       <p>Control and optimization of large-scale interconnected systems.</p>
     </a>
 
     <a href="/research/" class="tile">
-      <img src="/assets/images/robotics.png" alt="Robotics">
+      <img src="/assets/images/placeholder.png" alt="Robotics">
       <h3>Robotics & Embodied Intelligence</h3>
       <p>Learning and control for physical and bio-inspired robots.</p>
     </a>
 
     <a href="/research/" class="tile">
-      <img src="/assets/images/learning.png" alt="Learning">
+      <img src="/assets/images/placeholder.png" alt="Learning">
       <h3>Learning for Control</h3>
       <p>Data-driven methods with stability and performance guarantees.</p>
     </a>

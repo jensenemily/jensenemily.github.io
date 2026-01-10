@@ -4,7 +4,6 @@ excerpt: "About Me..."
 ---
 
 <section class="hero">
-  <img src="/assets/image/headshot.jpg" alt="Emily Jensen" class="hero-img">
   <p class="hero-subtitle">
     Assistant Professor • Control Theory & Distributed Systems
   </p>

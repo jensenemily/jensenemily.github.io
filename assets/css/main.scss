@@ -119,3 +119,7 @@ main {
 article.page {
   grid-template-columns: 1fr minmax(0, 1100px) 1fr !important;
 }
+article.page .article-wrap {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}

@@ -9,6 +9,30 @@ excerpt: "About Me..."
   </p>
 </section>
 
+<section class="research-tiles">
+  <h2>Research Areas</h2>
+
+  <div class="tiles-grid">
+    <a href="/research/" class="tile">
+      <img src="/assets/images/power-systems.png" alt="Power systems">
+      <h3>Networked Control Systems</h3>
+      <p>Control and optimization of large-scale interconnected systems.</p>
+    </a>
+
+    <a href="/research/" class="tile">
+      <img src="/assets/images/robotics.png" alt="Robotics">
+      <h3>Robotics & Embodied Intelligence</h3>
+      <p>Learning and control for physical and bio-inspired robots.</p>
+    </a>
+
+    <a href="/research/" class="tile">
+      <img src="/assets/images/learning.png" alt="Learning">
+      <h3>Learning for Control</h3>
+      <p>Data-driven methods with stability and performance guarantees.</p>
+    </a>
+  </div>
+</section>
+
 I am an Assistant Professor in the Electrical, Computer and Energy Engineering (ECEE) Department at the **University of Colorado, Boulder**, where I am also an affiliate member of the Robotics program.
 
 

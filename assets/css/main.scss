@@ -48,3 +48,12 @@ $lowlightcolor: {{ site.lowlight-color }};
   font-weight: 500;
   color: #333;
 }
+
+.hero::after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 2px;
+  margin: 1.5rem auto 0;
+  background-color: #ddd;
+}

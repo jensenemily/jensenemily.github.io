@@ -9,6 +9,18 @@ excerpt: "About Me..."
   </p>
 </section>
 
+
+
+I am an Assistant Professor in the Electrical, Computer and Energy Engineering (ECEE) Department at the **University of Colorado, Boulder**, where I am also an affiliate member of the Robotics program.
+
+
+**About me:** I received a B.S. Degree in Engineering Mathematics & Statistics from UC Berkeley, after which I was a research assistant in the Computing & Mathematical Sciences Department at Caltech. I recieved my Ph.D. degree in Electrical & Computer Engineering from UC Santa Barbara in 2020 and have held postdoctoral appointments at Northeastern University and UC Berkeley. I have received the UC Regents’ Graduate Fellowship (2016),
+the Zonta Amelia Earhart Fellowship (2019), and an honorable mention for the Young Author award at the IFAC Conference on Networked Systems (2022).
+
+**Potential Students & Postdocs:** I will be reviewing applications for new PhD students for the 2026-27 academic year. I will be prioritizing students that are interested in theoretical work related to optimal distributed controller design utilizing PDE models. 
+
+**My research** is centered around the analysis and control of spatially-distributed systems. Applications of these systems span areas from power systems to satellite constellations to bio-inspired soft-robotics. I develop theory to characterize performance bounds, structural properties, and inherent tradeoffs in these systems to guide controller design and system co-design.
+
 <section class="research-tiles">
   <h2>Research Areas</h2>
 
@@ -32,16 +44,6 @@ excerpt: "About Me..."
     </a>
   </div>
 </section>
-
-I am an Assistant Professor in the Electrical, Computer and Energy Engineering (ECEE) Department at the **University of Colorado, Boulder**, where I am also an affiliate member of the Robotics program.
-
-
-**About me:** I received a B.S. Degree in Engineering Mathematics & Statistics from UC Berkeley, after which I was a research assistant in the Computing & Mathematical Sciences Department at Caltech. I recieved my Ph.D. degree in Electrical & Computer Engineering from UC Santa Barbara in 2020 and have held postdoctoral appointments at Northeastern University and UC Berkeley. I have received the UC Regents’ Graduate Fellowship (2016),
-the Zonta Amelia Earhart Fellowship (2019), and an honorable mention for the Young Author award at the IFAC Conference on Networked Systems (2022).
-
-**Potential Students & Postdocs:** I will be reviewing applications for new PhD students for the 2026-27 academic year. I will be prioritizing students that are interested in theoretical work related to optimal distributed controller design utilizing PDE models. 
-
-**My research** is centered around the analysis and control of spatially-distributed systems. Applications of these systems span areas from power systems to satellite constellations to bio-inspired soft-robotics. I develop theory to characterize performance bounds, structural properties, and inherent tradeoffs in these systems to guide controller design and system co-design.
 
 You can view a list of all my publications on Google Scholar to learn more about my research [link to Google Scholar](https://scholar.google.com/citations?user=WzacMi8AAAAJ&hl=en&authuser=1).
 
